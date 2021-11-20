@@ -4,7 +4,7 @@
 - 💞️ Estou procurando colaborar em projetos iniciantes
 - 📫 sssamukaaa@gmail.com
 
-                                Urna eletroeletrônica Feita com HTML, CSS, JS
+                                Urna Eletrônica Feita com HTML, CSS, JS
                                 
 ![fsdfs](https://user-images.githubusercontent.com/90639226/142739786-887c47f6-a0bd-4dd6-a53c-e015e163842c.png)
 
