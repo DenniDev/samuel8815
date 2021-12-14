@@ -1,5 +1,5 @@
 - 👋 Olá, Sou Samuel Pereira da Silva
-- 👀 Estou interessado em , JavaScript, PHP, Java, Python
+- 👀 Estou interessado em PHP, Logica de Programação, JavaScript, Java,  MySql, Python
 - 🌱 Atualmente estou aprendendo PHP, Logica de Programação, JavaScript, Java,  MySql, Python
 - 💞️ Estou procurando colaborar em projetos iniciantes
 - 📫 samuelpereirasilva710@gmail.com
