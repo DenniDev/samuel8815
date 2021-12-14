@@ -2,7 +2,7 @@
 - 👀 Estou interessado em , JavaScript, PHP, Java, Python
 - 🌱 Atualmente estou aprendendo PHP, Logica de Programação, JavaScript, Java,  MySql, Python
 - 💞️ Estou procurando colaborar em projetos iniciantes
-- 📫 sssamukaaa@gmail.com
+- 📫 samuelpereirasilva710@gmail.com
 
                                 Urna Eletrônica Feita com HTML, CSS, JS
                                 
