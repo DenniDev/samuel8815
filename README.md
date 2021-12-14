@@ -19,5 +19,9 @@
 ![fibfbwer](https://user-images.githubusercontent.com/90639226/146091381-040b1cb1-f6df-466d-940e-701c1870fa56.png)
 
 
+! [Top Langs] (https://github-readme-stats.vercel.app/api/top-langs/ ? Username = samuel8815)
+
+
+
 
 
