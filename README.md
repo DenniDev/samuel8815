@@ -4,22 +4,25 @@
 - 💞️ Estou procurando colaborar em projetos iniciantes
 - 📫 samuelpereirasilva710@gmail.com
 
-                                Urna Eletrônica Feita com HTML, CSS, JS
+ Urna Eletrônica Feita com HTML, CSS, JS
                                 
 ![fsdfs](https://user-images.githubusercontent.com/90639226/142739786-887c47f6-a0bd-4dd6-a53c-e015e163842c.png)
 
 
-                                        Formulário Simples 
+Formulário Simples 
                                           
 
 ![fasasdf](https://user-images.githubusercontent.com/90639226/146659179-16d9bdac-a32c-4a6a-8015-a2b8699a6b26.png)
 
 
-                                        Indice De Massa Corporal (IMC)
+Indice De Massa Corporal (IMC)
                                         
 ![fibfbwer](https://user-images.githubusercontent.com/90639226/146091381-040b1cb1-f6df-466d-940e-701c1870fa56.png)
 
+                                         
+Lista de Lembretes
 
+![Sem título](https://user-images.githubusercontent.com/90639226/147428076-21ee5321-3143-41bf-943e-49cdf96eff2f.png)
 
 
 
