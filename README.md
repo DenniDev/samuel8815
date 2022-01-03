@@ -15,9 +15,9 @@ Formulário Simples
 ![fasasdf](https://user-images.githubusercontent.com/90639226/146659179-16d9bdac-a32c-4a6a-8015-a2b8699a6b26.png)
 
 
-Indice De Massa Corporal (IMC)
-                                        
-![fibfbwer](https://user-images.githubusercontent.com/90639226/146091381-040b1cb1-f6df-466d-940e-701c1870fa56.png)
+
+
+
 
                                          
 Lista de Lembretes
