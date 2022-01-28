@@ -1,5 +1,5 @@
 # Olá 👋, Eu sou Samuel Pereira da Silva
-Estudandte de programação
+Estudante de Programação
 - 👀 Estou interessado em PHP, Logica de Programação, JavaScript, Java,  MySql, Python
 - 🌱 Atualmente estou aprendendo PHP, Logica de Programação, JavaScript, Java,  MySql, Python
 - 💞️ Estou procurando colaborar em projetos iniciantes
