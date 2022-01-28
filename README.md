@@ -4,7 +4,7 @@
 - 💞️ Estou procurando colaborar em projetos iniciantes
 - 📫 samuelpereirasilva710@gmail.com
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samuel8815&show_icons=true&locale=en" alt="gabhernandes" /></p>
+<p div align =center >&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samuel8815&show_icons=true&locale=en" alt="gabhernandes" /></p>
 
 Projeto Site
 ![fdsd](https://user-images.githubusercontent.com/90639226/150712055-afc89681-77b2-4879-8f3c-012cbb627af9.png)
