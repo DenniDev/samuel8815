@@ -18,19 +18,19 @@ Estudante de Programação
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=teteusaraujo&layout=compact&langs_count=7&theme=dracula"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuel8815&layout=compact&langs_count=7&theme=dracula"
     />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       align="center"
       height="165"
-      src="https://github-readme-stats.vercel.app/api?username=teteusAraujo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"
+      src="https://github-readme-stats.vercel.app/api?username=samuel8815&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"
     />
   </a>
 </p>
 
-<p div align =center >&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samuel8815&show_icons=true&locale=en" alt="gabhernandes" /></p>
+
 
 <h1>Projeto Site<h1/>
  
