@@ -6,9 +6,14 @@ Estudante de Programação
 - 📫 samuelpereirasilva710@gmail.com
 
 ### Entre em Contato Comigo
-<p align="left">
-<a href="https://www.linkedin.com/in/samuel-pereira-da-silva-9790a8213/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="samuel" height="30" width="40" /></a>
+<!-- Social icons section -->
+<p align="center">
+  
+   <a href="https://www.linkedin.com/in/samuel-pereira-da-silva-9790a8213" alt="Linkedin" title="LinkedIn"><img width="32px" src="assets/linkedin.png"/></a>
+   &#8287;&#8287;&#8287;&#8287;&#8287;
+   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
+<br/>
 
  </a>
 </p>
