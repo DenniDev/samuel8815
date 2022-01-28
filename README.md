@@ -4,10 +4,10 @@ Estudante de Programação
 - 🌱 Atualmente estou aprendendo PHP, Logica de Programação, JavaScript, Java,  MySql, Python
 - 💞️ Estou procurando colaborar em projetos iniciantes
 - 📫 samuelpereirasilva710@gmail.com
-- 
+
 ### Entre em Contato Comigo
 <p align="left">
-<a href="https://https://www.linkedin.com/in/samuel-pereira-da-silva-9790a8213/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="samuel" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/samuel-pereira-da-silva-9790a8213/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="samuel" height="30" width="40" /></a>
 </p>
 
 <p div align =center >&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samuel8815&show_icons=true&locale=en" alt="gabhernandes" /></p>
