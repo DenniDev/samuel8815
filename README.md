@@ -12,6 +12,8 @@ Projeto Site
                                 
 ![fsdfs](https://user-images.githubusercontent.com/90639226/142739786-887c47f6-a0bd-4dd6-a53c-e015e163842c.png)
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samuel8815&show_icons=true&locale=en" alt="gabhernandes" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samuel8815&show_icons=true&locale=en" alt="gabhernandes" /></p>
 
 Formulário Simples 
                                           
