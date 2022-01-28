@@ -10,6 +10,26 @@ Estudante de Programação
 <a href="https://www.linkedin.com/in/samuel-pereira-da-silva-9790a8213/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="samuel" height="30" width="40" /></a>
 </p>
 
+ </a>
+</p>
+</br>
+</br>
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      align="center"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=teteusaraujo&layout=compact&langs_count=7&theme=dracula"
+    />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      align="center"
+      height="165"
+      src="https://github-readme-stats.vercel.app/api?username=teteusAraujo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"
+    />
+  </a>
+</p>
+
 <p div align =center >&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samuel8815&show_icons=true&locale=en" alt="gabhernandes" /></p>
 
 <h1>Projeto Site<h1/>
