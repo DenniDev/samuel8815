@@ -7,6 +7,12 @@ Estudante de Programação
 
 ### Entre em Contato Comigo
 
+<p align="left">
+<a href="https://www.linkedin.com/in/samuel-pereira-da-silva-9790a8213" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="samuel" height="30" width="40" /></a>
+</p>
+
+
+
 <br/>
 
  </a>
