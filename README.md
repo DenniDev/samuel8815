@@ -11,11 +11,9 @@
 ![fdsd](https://user-images.githubusercontent.com/90639226/150712055-afc89681-77b2-4879-8f3c-012cbb627af9.png)
  
  
-
  <h1>Urna Eletrônica Feita com HTML, CSS, JavaScript</h1>
                                 
 ![fsdfs](https://user-images.githubusercontent.com/90639226/142739786-887c47f6-a0bd-4dd6-a53c-e015e163842c.png)
-
 
 
 </h1>Formulário Simples</h1> 
