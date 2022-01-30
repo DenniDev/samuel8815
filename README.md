@@ -13,6 +13,8 @@ Estudante de Programação
 
 
 ### Linguagens
+
+<hr>
 <div style="display: inline_block"><br>
   <a href="https://github.com/samuel8815">
 <img align="center" alt="samuel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
