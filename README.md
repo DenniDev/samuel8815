@@ -1,7 +1,7 @@
 # Olá <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> , Eu sou Samuel Pereira da Silva
 Estudante de Programação
 - 👀 Estou interessado em PHP, Logica de Programação, JavaScript, Java,  MySql, Python
-- 🌱 Atualmente estou aprendendo PHP, Logica de Programação, JavaScript, Java,  MySql, Python
+- 🌱 Atualmente estou aprendendo PHP, Logica de Programação, JavaScript, Java,  MySql
 - 💞️ Estou procurando colaborar em projetos iniciantes
 - 📫 samuelpereirasilva710@gmail.com
 
@@ -12,7 +12,7 @@ Estudante de Programação
   <a href="https://www.linkedin.com/in/samuelpereira8815//" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 
-### Linguagens
+### Linguagens e Habilidades
 
 
 <div style="display: inline_block"><br>
@@ -21,7 +21,10 @@ Estudante de Programação
 <img align="center" alt="samuel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> 
 <img align="center" alt="samuel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 <img align="center" alt="samuel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-<img align="center" alt="samuel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">    
+<img align="center" alt="samuel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+<img align="center" alt="samuel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/MySQL/mysql-original.svg">    
+
+    
 
   
   
