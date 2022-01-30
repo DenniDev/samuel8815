@@ -7,9 +7,11 @@ Estudante de Programação
 
 ### Entre em Contato Comigo
 
-<p align="left">
-<a href="https://www.linkedin.com/in/samuel-pereira-da-silva-9790a8213" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="samuel" height="30" width="40" /></a>
-</p>
+<hr>
+  <a href = "mailto:samuelpereirasilva710@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/samuelpereira8815//" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
+
 
 <div style="display: inline_block"><br>
   <a href="https://github.com/samuel8815">
@@ -18,10 +20,7 @@ Estudante de Programação
 <img align="center" alt="samuel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   
   
- <hr>
-  <a href = "mailto:samuelpereirasilva710@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/samuelpereira8815//" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-
+ 
 
 
 
