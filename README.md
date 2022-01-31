@@ -1,5 +1,7 @@
 # Olá <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> , Eu sou Samuel Pereira da Silva
 Estudante de Programação
+<img align="center" alt="samuel8815-msqlserver"  src="https://komarev.com/ghpvc/?username=samuel8815&style=flat-square">
+
 - 👀 Estou interessado em PHP, Logica de Programação, JavaScript, Java,  MySql, Python
 - 🌱 Atualmente estou aprendendo PHP, Logica de Programação, JavaScript, Java,  MySql
 - 💞️ Estou procurando colaborar em projetos iniciantes
