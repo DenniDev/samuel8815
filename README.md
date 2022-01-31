@@ -1,4 +1,5 @@
 # Olá <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> , Eu sou Samuel Pereira da Silva
+<br>
 <h1>Estudante de Programação sonhando em ser Nômade digital <h1/>
 <br/>
 <img align="center" alt="samuel8815-msqlserver"  src="https://komarev.com/ghpvc/?username=samuel8815&style=flat-square">
