@@ -9,7 +9,7 @@ Estudante de Programação
 
 ### Entre em Contato Comigo
 
-<img align="center" alt="samuel8815-msqlserver"  src="https://komarev.com/ghpvc/?username=samuel8815&style=flat-square">
+
 
   <a href = "mailto:samuelpereirasilva710@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/samuelpereira8815//" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
