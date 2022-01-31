@@ -30,8 +30,7 @@ Estudante de Programação sonhando em ser Nômade digital 💻👩🏻‍💻�
 <img align="center" alt="samuel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">    
 <img align="center" alt="samuel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">    
 
-### Spotify Playing 🎧
-[![Spotify](https://novatorem-samuel8815.vercel.app/api/spotify/?background_color=00000000&border_color=00000000)](https://open.spotify.com/user/samul8815)
+
     
 <br/>
 
