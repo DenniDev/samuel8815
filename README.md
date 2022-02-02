@@ -9,7 +9,7 @@ Estudante de Programação sonhando em ser Nômade digital 💻👩🏻‍💻�
 - 💞️ Estou procurando colaborar em projetos iniciantes
 - 📫 samuelpereirasilva710@gmail.com
 
-### Entre em Contato Comigo
+## Entre em Contato Comigo
 
 
 
@@ -17,7 +17,7 @@ Estudante de Programação sonhando em ser Nômade digital 💻👩🏻‍💻�
   <a href="https://www.linkedin.com/in/samuelpereira8815//" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 
-### Linguagens e Habilidades 
+## Linguagens e Habilidades 
 
 
 <div style="display: inline_block"><br>
