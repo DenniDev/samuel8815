@@ -102,6 +102,11 @@ Estudante de Programação sonhando em ser Nômade digital 💻👩🏻‍💻�
 
 ![cadastro tela](https://user-images.githubusercontent.com/90639226/171062764-c6506ce4-ff64-4c20-a1d7-8ac255962875.png)
 
+### Site Feito em Angular
+
+
+![sdfsdfsdf](https://user-images.githubusercontent.com/90639226/174690684-5f68efee-b285-4f5b-9d44-e8e3880228dd.png)
+
 
 
 
