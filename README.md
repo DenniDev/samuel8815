@@ -30,7 +30,7 @@ Sou um Desenvolvedor Junior 💻👩🏻‍💻✈🎒
 <img align="center" alt="samuel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">    
 
 <br/>
-
+<img align='left' height='160' style="margin-left:20px" src='assets/programmer.gif' alt='Skills'>
 ##  IDE:
 
  
