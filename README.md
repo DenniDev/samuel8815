@@ -20,13 +20,7 @@ Sou um Desenvolvedor Junior 💻👩🏻‍💻✈🎒
 
 ## Linguagens e Habilidades 
 
-<br>
-<br>
 
-<img align='left' height='160' style="margin-left:20px" src='assets/dev_animado.gif' alt='Skills'>
-
-<br>
-<br>
 
 <div style="display: inline_block"><br>
 <img align="center" alt="samuel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
