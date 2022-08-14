@@ -33,13 +33,7 @@ Sou um Desenvolvedor Junior 💻👩🏻‍💻✈🎒
 <br/>
 
 ##
-<br>
-<br>
 
-<img align='left' height='160' style="margin-left:20px" src='assets/dev_animado.gif' alt='Skills'>
-
-<br>
-<br>
   
 ##  IDE:
 
