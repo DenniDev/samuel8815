@@ -9,7 +9,7 @@ Sou um Desenvolvedor Junior 💻👩🏻‍💻✈🎒
 - 💞️ Estou procurando colaborar em projetos iniciantes
 - 📫 samuelpereirasilva710@gmail.com
 
-<img align='left' height='160' style="margin-left:20px" src='assets/dev_animado.gif' alt='Skills'>
+<img align='left' height='200' style="margin-left:20px" src='assets/dev_animado.gif' alt='Skills'>
 
 ## Entre em Contato Comigo
 
