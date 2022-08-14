@@ -8,13 +8,7 @@ Sou um Desenvolvedor Junior 💻👩🏻‍💻✈🎒
 - 🌱 Atualmente estou aprendendo PHP, Logica de Programação, JavaScript, Java,  MySql
 - 💞️ Estou procurando colaborar em projetos iniciantes
 - 📫 samuelpereirasilva710@gmail.com
-<br>
-<br>
 
-<img align='left' height='160' style="margin-left:20px" src='assets/dev_animado.gif' alt='Skills'>
-
-<br>
-<br>
 
 ## Entre em Contato Comigo
 
@@ -38,6 +32,14 @@ Sou um Desenvolvedor Junior 💻👩🏻‍💻✈🎒
 
 <br/>
 
+##
+<br>
+<br>
+
+<img align='left' height='160' style="margin-left:20px" src='assets/dev_animado.gif' alt='Skills'>
+
+<br>
+<br>
   
 ##  IDE:
 
