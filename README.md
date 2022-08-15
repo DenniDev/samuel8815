@@ -2,6 +2,7 @@
 <br>
 Sou um Desenvolvedor Junior 💻👩🏻‍💻✈🎒
 <br/>
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"><br />
 <img align="center" alt="samuel8815-msqlserver"  src="https://komarev.com/ghpvc/?username=samuel8815&style=flat-square">
 
 - 👀 Estou interessado em PHP, Logica de Programação, JavaScript, Java,  MySql, Python
