@@ -51,7 +51,7 @@ Sou um Desenvolvedor Junior 💻👩🏻‍💻✈🎒
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuel8815&layout=compact&langs_count=7&theme=dracula"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuel8815&layout=compact&langs_count=7&theme=tokyonight"
     />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
