@@ -58,7 +58,7 @@ Sou um Desenvolvedor Junior 💻👩🏻‍💻✈🎒
     <img
       align="center"
       height="165"
-      src="https://github-readme-stats.vercel.app/api?username=samuel8815&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"
+      src="https://github-readme-stats.vercel.app/api?username=samuel8815&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
     />
   </a>
 </p>
