@@ -64,6 +64,8 @@ Sou um Desenvolvedor Junior 💻👩🏻‍💻✈🎒
   </a>
 </p>
 
+## **Minha constribuições nesse ano**
+<img alt="toptal126's Github contribution" src="https://github.com/samuel8815/samuel8815/blob/output/github-contribution-grid-snake.gif"/>
 
 
 ### Projeto Site
