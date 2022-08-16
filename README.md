@@ -1,6 +1,6 @@
-# Olá <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> , Eu sou Samuel Pereira da Silva
+# Olá <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=65&pause=500&color=06CD9C&vCenter=true&width=600&height=70&lines=Samuel+Pereira+da+Silva)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=65&pause=500&color=06CD9C&vCenter=true&width=600&height=70&lines=Eu+Sou+Samuel+Pereira+da+Silva)](https://git.io/typing-svg)
 
 <br>
 Sou um Desenvolvedor Junior 💻👩🏻‍💻✈🎒
