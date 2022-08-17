@@ -2,9 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=65&pause=500&color=06CD9C&vCenter=true&width=600&height=70&lines=Eu+sou+Samuel+Pereira+da+Silva;Desenvolvedor+Junior)](https://git.io/typing-svg)
 
-<br>
-Sou um Desenvolvedor Junior 💻👩🏻‍💻✈🎒
-<br/>
+
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"><br />
 <img align="center" alt="samuel8815-msqlserver"  src="https://komarev.com/ghpvc/?username=samuel8815&style=flat-square">
 
