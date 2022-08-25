@@ -6,9 +6,8 @@
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"><br />
 <img align="center" alt="samuel8815-msqlserver"  src="https://komarev.com/ghpvc/?username=samuel8815&style=flat-square">
 
-- 👀 Estou interessado em PHP, Logica de Programação, JavaScript, Java,  MySql, Python
-- 🌱 Atualmente estou aprendendo PHP, Logica de Programação, JavaScript, Java,  MySql
-- 💞️ Estou procurando colaborar em projetos iniciantes
+- 👀 Estou interessado em JavaScript, ReactJs, AngularJs, Typescrpit,  MySQL, Python
+- 🌱 Atualmente estou aprendendo Ionic, JavaScript, PHP & MySQL
 - 📫 samuelpereirasilva710@gmail.com
 
 
@@ -16,8 +15,8 @@
 
 
 
-  <a href = "mailto:samuelpereirasilva710@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/samuelpereira8815//" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href = "mailto:denilsondosantos64@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/denilson-dos-santos-da-silva-b30851216//" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 
 ## Linguagens e Habilidades 
@@ -31,7 +30,9 @@
 <img align="center" alt="samuel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 <img align="center" alt="samuel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
 <img align="center" alt="samuel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">    
-<img align="center" alt="samuel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">    
+<img align="center" alt="samuel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
+<img align="center" alt="samuel" height="30" width="40" 
+src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg">
 
 <br/>
 
